@@ -661,7 +661,3 @@ Every group member must speak in the video.
 The Gradescope submission limit is 100 MB.
 
 The final video is submitted separately through Minerva.
-
-AI tools should be used for learning and advice, in accordance
-with the coursework policy. Every member must be able to explain
-and reproduce their own work.
