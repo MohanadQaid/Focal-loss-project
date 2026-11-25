@@ -1,0 +1,24 @@
+# Original CIFAR-10 dataset
+cifar-10-batches-py/
+*.tar.gz
+
+# Generated datasets
+deer_horse_data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Sensitive information
+.env
