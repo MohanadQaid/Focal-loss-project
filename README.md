@@ -665,21 +665,3 @@ The final video is submitted separately through Minerva.
 AI tools should be used for learning and advice, in accordance
 with the coursework policy. Every member must be able to explain
 and reproduce their own work.
-
----
-
-## 15. References
-
-1. Simon J. D. Prince, Understanding Deep Learning, Chapter 5.
-   https://udlbook.com/
-
-2. Lin et al. (2017), Focal Loss for Dense Object Detection.
-   https://openaccess.thecvf.com/content_ICCV_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html
-
-3. CIFAR-10 Dataset.
-   https://www.cs.toronto.edu/~kriz/cifar.html
-
-4. PyTorch Documentation.
-   https://pytorch.org/docs/stable/index.html
-
-5. COMP3620 Coursework 3 Group Project Brief.
