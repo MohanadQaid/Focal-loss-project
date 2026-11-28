@@ -1,0 +1,95 @@
+{
+  "runs": [
+    {
+      "seed": 42,
+      "learning_rate": 0.0001,
+      "epochs": 30,
+      "test": {
+        "loss": 0.42937501081180757,
+        "accuracy": 0.8225,
+        "balanced_accuracy": 0.8225,
+        "horse_precision": 0.8412698412698413,
+        "horse_recall": 0.795,
+        "horse_f1": 0.8174807197943444,
+        "confusion_matrix": [
+          [
+            850,
+            150
+          ],
+          [
+            205,
+            795
+          ]
+        ]
+      }
+    },
+    {
+      "seed": 123,
+      "learning_rate": 0.0001,
+      "epochs": 30,
+      "test": {
+        "loss": 0.41988850572047254,
+        "accuracy": 0.824,
+        "balanced_accuracy": 0.8240000000000001,
+        "horse_precision": 0.8403361344537815,
+        "horse_recall": 0.8,
+        "horse_f1": 0.819672131147541,
+        "confusion_matrix": [
+          [
+            848,
+            152
+          ],
+          [
+            200,
+            800
+          ]
+        ]
+      }
+    },
+    {
+      "seed": 456,
+      "learning_rate": 0.0001,
+      "epochs": 30,
+      "test": {
+        "loss": 0.4634151953010451,
+        "accuracy": 0.8155,
+        "balanced_accuracy": 0.8155,
+        "horse_precision": 0.8448087431693989,
+        "horse_recall": 0.773,
+        "horse_f1": 0.8073107049608355,
+        "confusion_matrix": [
+          [
+            858,
+            142
+          ],
+          [
+            227,
+            773
+          ]
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "accuracy": {
+      "mean": 0.8206666666666668,
+      "sample_std": 0.004536885862938717
+    },
+    "balanced_accuracy": {
+      "mean": 0.8206666666666668,
+      "sample_std": 0.004536885862938758
+    },
+    "horse_precision": {
+      "mean": 0.8421382396310072,
+      "sample_std": 0.0023593736384919938
+    },
+    "horse_recall": {
+      "mean": 0.7893333333333334,
+      "sample_std": 0.014364307617610175
+    },
+    "horse_f1": {
+      "mean": 0.814821185300907,
+      "sample_std": 0.00659591215327192
+    }
+  }
+}
